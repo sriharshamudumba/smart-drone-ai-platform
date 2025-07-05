@@ -1,3 +1,5 @@
+
+
 # Smart Drone AI Platform
 
 This project simulates a single autonomous drone mission, using:
